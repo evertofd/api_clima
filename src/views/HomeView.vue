@@ -1,7 +1,7 @@
 <template>
   <nav class ="navbar bg-dark">
   <div class="container-fluid">
-    <a id="inicio" class="navbar-brand text-light fs-1">Playas soñadas de América</a>
+    <a id="inicio" class="navbar-brand text-light fs-1">Las mejores playas</a>
 
 
 <select class="btn btn-outline-success" v-model="escalaTemp">
